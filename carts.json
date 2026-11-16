@@ -1,28 +1,70 @@
 {
- "cartwallSet": 1,
- "cols": 3,
- "rows": 5,
- "sideCount": 5,
- "pages": 4,
- "pageNames": [],
- "fade": 1.5,
- "exclusive": true,
- "normalise": true,
- "target": -16,
- "carts": {
-  "0:0": {
-   "file": "do they know its christmas - band aid.wav",
-   "label": "do they know its christmas - band aid",
-   "color": "#c0392b",
-   "mode": "overlap",
-   "gain": 0
-  },
-  "0:1": {
-   "file": "fairytale of new york - pogues.wav",
-   "label": "fairytale of new york - pogues",
-   "color": "#c0392b",
-   "mode": "toggle",
-   "gain": 0
+  "cartwallSet": 1,
+  "cols": 3,
+  "rows": 5,
+  "sideCount": 5,
+  "pages": 4,
+  "pageNames": [],
+  "fade": 1.5,
+  "exclusive": true,
+  "normalise": true,
+  "target": -16,
+  "carts": {
+    "0:0": {
+      "file": "bad_romance.wav",
+      "label": "bad_romance",
+      "color": "#c0392b",
+      "mode": "toggle",
+      "gain": 0
+    },
+    "0:1": {
+      "file": "creep.wav",
+      "label": "creep",
+      "color": "#d35400",
+      "mode": "toggle",
+      "gain": 0
+    },
+    "0:2": {
+      "file": "feelgood-inc-gorillaz.wav",
+      "label": "feelgood-inc-gorillaz",
+      "color": "#e0a800",
+      "mode": "toggle",
+      "gain": 0
+    },
+    "0:3": {
+      "file": "get up offa that thing.wav",
+      "label": "get up offa that thing",
+      "color": "#27ae60",
+      "mode": "toggle",
+      "gain": 0
+    },
+    "0:4": {
+      "file": "hey-pixies.wav",
+      "label": "hey-pixies",
+      "color": "#16a085",
+      "mode": "toggle",
+      "gain": 0
+    },
+    "0:5": {
+      "file": "kiss-prince.wav",
+      "label": "kiss-prince",
+      "color": "#2980b9",
+      "mode": "toggle",
+      "gain": 0
+    },
+    "0:6": {
+      "file": "kiss-prince2.wav",
+      "label": "kiss-prince2",
+      "color": "#5b4bd6",
+      "mode": "toggle",
+      "gain": 0
+    },
+    "0:7": {
+      "file": "kiss2.wav",
+      "label": "kiss2",
+      "color": "#8e44ad",
+      "mode": "toggle",
+      "gain": 0
+    }
   }
- }
 }
